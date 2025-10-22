@@ -17,9 +17,18 @@ This repository features dashboards developed in both Power BI and ArcGIS to hig
 
 Below are example screenshots from the dashboards:
 
-![Dashboard Overview](screenshots/dashboard_overview.png)
-![Progress Analysis](screenshots/progress_analysis.png)
-![ArcGIS Project Map](screenshots/arcgis_project_map.png)
+Progress Dashboards
+
+![Dashboard Overview](https://github.com/eelmido13/Project-BI-and-Geospatial-Dashboards/blob/main/Screenshots/Progress.png)
+![Progress Analysis](https://github.com/eelmido13/Project-BI-and-Geospatial-Dashboards/blob/main/Screenshots/Progress_1.png)
+
+QC Dashboards
+
+![Quality Assurance](https://github.com/eelmido13/Project-BI-and-Geospatial-Dashboards/blob/main/Screenshots/QC%20Dashboards.png)
+
+AGOL Dashboards
+
+![ArcGIS Project Map](https://github.com/eelmido13/Project-BI-and-Geospatial-Dashboards/blob/main/Screenshots/AGOL%20Dashboards.png)
 
 *Add your own screenshots in the `screenshots` folder for better visualization.*
 
@@ -51,5 +60,6 @@ Authored by [eelmido13](https://github.com/eelmido13) to demonstrate dashboard d
 ---
 
 Feel free to fork, modify, or use these dashboards as templates for your own projects!
+
 
 
