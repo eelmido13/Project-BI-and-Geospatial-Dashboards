@@ -30,8 +30,6 @@ AGOL Dashboards
 
 ![ArcGIS Project Map](https://github.com/eelmido13/Project-BI-and-Geospatial-Dashboards/blob/main/Screenshots/AGOL%20Dashboards.png)
 
-*Add your own screenshots in the `screenshots` folder for better visualization.*
-
 ## Benefits for Project Managers
 
 - **Actionable Insights:** Quickly identify bottlenecks, risks, and opportunities for optimization.
@@ -60,6 +58,7 @@ Authored by [eelmido13](https://github.com/eelmido13) to demonstrate dashboard d
 ---
 
 Feel free to fork, modify, or use these dashboards as templates for your own projects!
+
 
 
 
