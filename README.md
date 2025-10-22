@@ -1,4 +1,4 @@
-# Utilities & Telecom Project Manager Dashboard Showcase
+# Utilities & Telecom Project Manager Dashboard
 
 ## Overview
 
@@ -51,4 +51,5 @@ Authored by [eelmido13](https://github.com/eelmido13) to demonstrate dashboard d
 ---
 
 Feel free to fork, modify, or use these dashboards as templates for your own projects!
+
 
